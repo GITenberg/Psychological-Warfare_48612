@@ -1,4 +1,8 @@
 _repo: Psychological-Warfare_48612
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48612-h/images/cover.jpg
 creator:
   author:
     agent_name: Linebarger, Paul Myron Anthony
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34034
     wikipedia: http://en.wikipedia.org/wiki/Cordwainer_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48612#Psychological-Warfare
 gutenberg_issued: '2015-03-30'
 gutenberg_type: Text
 identifiers:
